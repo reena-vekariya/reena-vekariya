@@ -17,7 +17,7 @@
 
 - 🏢 **Sr. Software Engineer & Engineering Manager** at **Bacancy Technology** _(Jan 2018 – Present)_
 - 📱 **8+ years** building production-grade cross-platform mobile apps for **iOS & Android**
-- 🚢 **10+ apps** shipped to the **App Store & Play Store** across fintech, healthcare, edtech & food-tech
+- 🚢 **25+ apps** shipped to the **App Store & Play Store** across fintech, healthcare, edtech & food-tech
 - 🧠 Passionate about **clean architecture**, **team leadership**, and **delivering at scale**
 - 🌍 Based in **Ahmedabad, India** · Open to **remote opportunities**
 - 🎓 **MCA** — L.J. University, Ahmedabad
